@@ -9,6 +9,7 @@ import patient from "@/components/Patient.vue"; // name of your Vue component
 //import PatientService from "../../src/services/PatientServices";
 import Vue from "vue";
 import VueRouter from 'vue-router'
+
 import Vuetify from "vuetify";
 //import VueRouter from "vue-router";
 
